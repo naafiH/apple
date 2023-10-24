@@ -1,4 +1,3 @@
-import React from 'react'
 import img1 from "../assets/logo.png"
 import img2 from "../assets/appstore.png"
 
